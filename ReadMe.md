@@ -32,8 +32,8 @@ This project is a continuation of the work you have done previously.
 - [ ]  Create a form_test.js file.
 - [ ]  Watch the Cypress Test Runner update the list of specs.
 - [ ] Launch Cypress in interactive mode.
-      
-*Note:* 
+
+<!-- *Note:*  -->
 You will see an error that says "No tests found in your file:" with your particular file path. This is because we have not written any tests yet. Now you will start writing tests.
 
 ### Step 2: Write and Run Tests
